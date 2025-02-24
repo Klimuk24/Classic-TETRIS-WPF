@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TETRIS.Block" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAIAIBAAAAAAAAEAAAAAGAAIAAAAABAAAAAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TETRIS.IBlock">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAABAAAAAA=</HashCode>
+      <FileName>IBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TETRIS.LBlock">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAA=</HashCode>
+      <FileName>LBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TETRIS.ZBlock">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAA=</HashCode>
+      <FileName>ZBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TETRIS.SBlock">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAA=</HashCode>
+      <FileName>SBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TETRIS.JBlock">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAA=</HashCode>
+      <FileName>JBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TETRIS.OBlock">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAABAAAAAA=</HashCode>
+      <FileName>OBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TETRIS.TBlock">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAA=</HashCode>
+      <FileName>TBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
